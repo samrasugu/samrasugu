@@ -59,7 +59,7 @@ Cloud Certifications
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&theme=radical)](https://github.com/samrasugu/github-readme-stats)
 
-https://camo.githubusercontent.com/ca21dec453313893c53bf54cd0e803c336fece345a606de6ca503bbcbc1da0d1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5279616e4b6f6563682673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d746f6b796f6e69676874
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&theme=tokyonight)
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
