@@ -55,9 +55,9 @@ Cloud Certifications
 
 
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&show_icons=true&theme=radical)](https://github.com/samrasugu/github-readme-stats)
+<!-- [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&show_icons=true&theme=radical)](https://github.com/samrasugu/github-readme-stats) -->
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&theme=dark&show_icons=true)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&theme=radical&show_icons=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&theme=radical)](https://github.com/samrasugu/github-readme-stats) -->
 
