@@ -63,6 +63,8 @@ Cloud Certifications
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 #
