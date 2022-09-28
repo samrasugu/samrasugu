@@ -44,14 +44,14 @@ Also
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50">
 
 
-Google IT Support Certified
-CyberSecurity Certifications
-- Acronis
-- Wallix
+<!-- Google IT Support Certified -->
+<!-- CyberSecurity Certifications -->
+<!-- - Acronis -->
+<!-- - Wallix -->
 
-Cloud Certifications
-- Acronis
-- Oracle
+<!-- Cloud Certifications -->
+<!-- - Acronis -->
+<!-- - Oracle -->
 
 
 
