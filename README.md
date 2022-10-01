@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=samrasugu&style=flat-square&color=blue" alt=""/>
 </div>
 
 
