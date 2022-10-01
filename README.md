@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=samrasugu&style=flat-square&color=blue" alt=""/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=samrasugu&style=flat-square&color=blue" alt=""/> -->
 </div>
 
 
@@ -75,7 +75,7 @@ Skills
 
 <!-- [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&show_icons=true&theme=radical)](https://github.com/samrasugu/github-readme-stats) -->
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&theme=radical&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samrasugu&theme=radical)](https://git.io/streak-stats)
+!<div></div>[Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&theme=radical&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samrasugu&theme=radical)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&theme=radical)](https://github.com/samrasugu/github-readme-stats) -->
 
