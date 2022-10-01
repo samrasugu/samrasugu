@@ -28,7 +28,7 @@
 
 
 ---
-								WHAT I DO
+								     WHAT I DO
 Web Development 
 - Languages
 
@@ -56,9 +56,9 @@ Skills
 
 
 
-Also
+<!-- Also -->
 
-<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50">
+<!-- <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"> -->
 
 
 <!-- Google IT Support Certified -->
