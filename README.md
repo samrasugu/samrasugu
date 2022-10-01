@@ -22,9 +22,9 @@
 </div>
 
 
-								     SAY HI 😃👋
+<!-- 								     SAY HI 😃👋 -->
 								     
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam%20Rasugu-blue)](https://linkedin.com/in/Sam-Rasugu/)   [![Twitter](https://img.shields.io/badge/Twitter-samrasugu-00ACEE)](https://twitter.com/samrasugu) [![Website](https://img.shields.io/badge/-Website-%23318dde)](https://samrasugu.github.io/)    [![Email](https://img.shields.io/badge/-GMAIL-EA4335)](mailto:mokuasamr@gmail.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam%20Rasugu-blue)](https://linkedin.com/in/Sam-Rasugu/)   [![Twitter](https://img.shields.io/badge/Twitter-samrasugu-00ACEE)](https://twitter.com/samrasugu) [![Website](https://img.shields.io/badge/-Website-%23318dde)](https://samrasugu.github.io/)    [![Email](https://img.shields.io/badge/-GMAIL-EA4335)](mailto:mokuasamr@gmail.com) -->
 
 
 ---
@@ -78,7 +78,7 @@ Also
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&theme=radical)](https://github.com/samrasugu/github-readme-stats) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
