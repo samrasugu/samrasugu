@@ -76,8 +76,9 @@ Skills
 <div class="begin-examples">
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&show_icons=true&theme=radical)](https://github.com/samrasugu/github-readme-stats)
 </div>
+<div class="end-examples">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&theme=radical)](https://github.com/samrasugu/github-readme-stats)
-
+</div>
 <!-- ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&theme=radical&show_icons=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samrasugu&theme=radical)](https://git.io/streak-stats) -->
 
 
