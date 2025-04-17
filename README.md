@@ -87,13 +87,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
 
-###
+<!-- ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/ki8kxltnvz6dklkvx0nz4r6zp">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ki8kxltnvz6dklkvx0nz4r6zp&count=5" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 
 ###
 
@@ -101,20 +101,5 @@
 
 ###
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&show_icons=true&theme=radical)](https://github.com/samrasugu/github-readme-stats)
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samrasugu&theme=radical)](https://git.io/streak-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&theme=radical)](https://github.com/samrasugu/github-readme-stats)| -->
-
-<!-- ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&theme=radical&show_icons=true)  -->
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrasugu&theme=radical) -->
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 #
