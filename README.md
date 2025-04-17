@@ -94,14 +94,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
 
-###
+<!--###
 
 <div align="center">
   <!-- <a href="https://open.spotify.com/user/ki8kxltnvz6dklkvx0nz4r6zp">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ki8kxltnvz6dklkvx0nz4r6zp&count=5" alt="Spotify recently played"  />
-  </a> -->
+  </a>
+</div> -->
+
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ki8kxltnvz6dklkvx0nz4r6zp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-</div>
 
 ###
 
