@@ -16,10 +16,10 @@
 
 ###
 
-<div align="center">
+<!---<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samrasugu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samrasugu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  />
-</div>
+</div> --->
 
 ###
 <div align="center">
@@ -104,7 +104,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/samrasugu/samrasugu/output/snake.svg" alt="Snake animation" />
+<!---<img src="https://raw.githubusercontent.com/samrasugu/samrasugu/output/snake.svg" alt="Snake animation" /> --->
 
 ###
 
