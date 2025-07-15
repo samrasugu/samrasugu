@@ -24,7 +24,7 @@
 <!--![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrasugu&show_icons=true&theme=tokyonight)-->
 
 ###
-<h2 align="center">Digital Dirt – What I Tinker With</h2>
+<h4 align="center">Digital Dirt – What I Tinker With</h4>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
